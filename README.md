@@ -1,5 +1,5 @@
 # Bright-TV-
-April Case Study Bright TV
+
 Project Overview
 This repository contains a comprehensive data analysis of BrightTV’s viewership trends and revenue growth strategies. The project focuses on transforming raw session data into actionable business intelligence to optimize content scheduling and user engagement.
 
