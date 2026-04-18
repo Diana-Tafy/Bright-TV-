@@ -1,10 +1,10 @@
 # Bright-TV-
 
-Project Overview
+#Project Overview
 
 This repository contains a comprehensive data analysis of BrightTV’s viewership trends and revenue growth strategies. The project focuses on transforming raw session data into actionable business intelligence to optimize content scheduling and user engagement.
 
- Repository Structure
+ #Repository Structure
  
 Project Description & Raw Data: Documentation of the case study parameters and the foundational datasets. It involves analyzing raw data sourced from Excel CSV files.
 
@@ -16,12 +16,12 @@ Tools: Databricks
 
 Project Presentation: The presentation was created using Canva and included key insights and recommendations.
 
- Tech Stack
+ #Tech Stack
 SQL: Advanced data engineering (LEFT JOINs, COALESCE for null handling, and CASE statements for audience segmentation).
 
 Microsoft Excel: PivotTable and PivotChart integration for dynamic dashboarding and trend visualization.
 
- Key Insights
+ #Key Insights
 Analysis of 10,985 sessions identified critical consumption patterns:
 
 Primary Segment: "The Home Stayers" (10:00–16:00) represent the dominant audience, suggesting a high potential for targeted daytime advertising.
