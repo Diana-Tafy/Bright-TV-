@@ -1,7 +1,9 @@
 # Bright-TV-
 
 #Project Overview
-Dashboard Preview    https://lucid-insight-board.lovable.app/
+
+
+#Dashboard Preview    https://lucid-insight-board.lovable.app/
 
 This repository contains a comprehensive data analysis of BrightTV’s viewership trends and revenue growth strategies. The project focuses on transforming raw session data into actionable business intelligence to optimize content scheduling and user engagement.
 
